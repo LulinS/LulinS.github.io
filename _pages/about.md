@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Accounting at the Rotman School of Management, University of Toronto. I am currently on the 2025-2026 academic job market and expect to graduate in June 2026.
+I am a Ph.D. candidate in Accounting at the Rotman School of Management, University of Toronto. I am expected to join the University of Alberta as an Assistant Professor of Accounting in July 2016.
 
 My research examines the interaction between regulation, disclosure, and ESG-related issues, with a particular focus on social outcomes, including healthcare quality, fair lending, and environmental justice.
 

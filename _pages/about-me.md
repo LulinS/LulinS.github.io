@@ -18,4 +18,3 @@ author_profile: true
 <br>
 <img src="/images/dog3.jpg" alt="Seven the Husky 3" style="width: 100%; max-width: 600px;">
 
-*(Note: Please upload your dog photos to the `images/` folder with filenames `dog1.jpg`, `dog2.jpg`, and `dog3.jpg`)*
