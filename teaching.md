@@ -6,11 +6,11 @@ permalink: /teaching/
 
 <h1 class="page">Teaching</h1>
 
-My teaching interests are data analytics, financial accounting, managerial accounting, and healthcare accounting.
-
 ## University of Alberta
 
-<p class="detail-note">Courses at the Alberta School of Business will be listed here as they are scheduled.</p>
+<ul class="courses">
+  <li><span class="course">ACCTG 222 · Introduction to Accounting for Management Decision Making</span><span class="when">Winter 2027</span><span class="note">Instructor</span></li>
+</ul>
 
 ## Rotman School of Management, University of Toronto
 
