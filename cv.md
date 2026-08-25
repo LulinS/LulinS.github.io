@@ -11,6 +11,6 @@ redirect_from:
 
 <p><a href="{{ site.author.cv | relative_url }}">Download the PDF</a> — or read it below.</p>
 
-<object class="pdf" data="{{ site.author.cv | relative_url }}" type="application/pdf">
+<object class="pdf" data="{{ site.author.cv | relative_url }}?v={{ site.time | date: '%s' }}" type="application/pdf">
   <p>Your browser can't display PDFs inline. <a href="{{ site.author.cv | relative_url }}">Download the CV</a> instead.</p>
 </object>
