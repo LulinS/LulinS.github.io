@@ -4,7 +4,7 @@
     <a class="name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
     <span class="role">Assistant Professor of Accounting</span>
     <span class="role">Alberta School of Business</span>
-    <a class="aff" href="{{ site.author.profile }}">University of Alberta profile &rarr;</a>
+    <a class="aff" href="{{ site.author.profile }}" target="_blank" rel="noopener">University of Alberta profile &rarr;</a>
   </div>
   <nav class="nav" aria-label="Site">
     {% for item in site.nav %}
@@ -13,9 +13,9 @@
   </nav>
   <div class="ext">
     <a href="mailto:{{ site.author.email }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>{{ site.author.email }}</a>
-    <a href="{{ site.author.ssrn }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/></svg>SSRN</a>
-    {% if site.author.scholar != "" %}<a href="{{ site.author.scholar }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/></svg>Google Scholar</a>{% endif %}
-    <a href="{{ site.author.linkedin }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4z"/><path d="M8 10v6M8 7v.5M12 16v-3.5a2 2 0 0 1 4 0V16"/></svg>LinkedIn</a>
+    <a href="{{ site.author.ssrn }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/></svg>SSRN</a>
+    {% if site.author.scholar != "" %}<a href="{{ site.author.scholar }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/></svg>Google Scholar</a>{% endif %}
+    <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4z"/><path d="M8 10v6M8 7v.5M12 16v-3.5a2 2 0 0 1 4 0V16"/></svg>LinkedIn</a>
     <a href="{{ site.author.cv | relative_url }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h14v16H5z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg>CV (PDF)</a>
   </div>
 </aside>
