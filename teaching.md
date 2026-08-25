@@ -9,7 +9,7 @@ permalink: /teaching/
 ## University of Alberta
 
 <ul class="courses">
-  <li><span class="course">ACCTG 222 · Introduction to Accounting for Management Decision Making</span><span class="when">Winter 2027</span><span class="note">Instructor</span></li>
+  <li><span class="course">ACCTG 222 · Introduction to Accounting for Management Decision Making</span><span class="when">Winter 2027</span></li>
 </ul>
 
 ## Rotman School of Management, University of Toronto
@@ -17,7 +17,7 @@ permalink: /teaching/
 <h3>Instructor</h3>
 
 <ul class="courses">
-  <li><span class="course">Data Analytics with Financial Accounting Information</span><span class="when">2024</span><span class="note">Sole instructor · course evaluation 4.4 / 5.0</span></li>
+  <li><span class="course">Data Analytics with Financial Accounting Information</span><span class="when">2024</span></li>
 </ul>
 
 <h3>Teaching assistant</h3>
