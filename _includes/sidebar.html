@@ -3,8 +3,9 @@
     <img class="avatar" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" width="120" height="120">
     <span class="name">{{ site.author.name }}</span>
     <span class="role">Assistant Professor of Accounting</span>
-    <span class="aff">Alberta School of Business<br>University of Alberta</span>
+    <span class="role">Alberta School of Business</span>
   </a>
+  <a class="aff" href="{{ site.author.profile }}">University of Alberta profile &rarr;</a>
   <nav class="nav" aria-label="Site">
     {% for item in site.nav %}
     <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="on" aria-current="page"{% endif %}>{{ item.title }}</a>
