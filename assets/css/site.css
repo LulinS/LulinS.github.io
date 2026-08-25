@@ -23,13 +23,15 @@ h1,h2,h3{color:var(--ink);text-wrap:balance}
 
 .shell{display:grid;grid-template-columns:248px minmax(0,1fr);min-height:100vh}
 .side{background:var(--side);border-right:1px solid var(--line);padding:40px 28px;display:flex;flex-direction:column;gap:22px;position:sticky;top:0;height:100vh;overflow:auto}
-.side-id{display:flex;flex-direction:column;gap:2px;color:inherit}
-.side-id:hover{text-decoration:none}
-.avatar{width:120px;height:120px;border-radius:50%;object-fit:cover;object-position:top;margin-bottom:14px}
+.side-id{display:flex;flex-direction:column;gap:2px;align-items:flex-start}
+.side-id a{color:inherit}
+.side-id a:hover{text-decoration:none}
+.avatar{width:120px;height:120px;border-radius:50%;object-fit:cover;object-position:top;margin-bottom:14px;display:block}
 .name{font-size:20px;font-weight:600;color:var(--ink);letter-spacing:-.01em}
 .role{font-size:13.5px;color:var(--mute);line-height:1.45}
 .aff{font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;text-transform:uppercase;color:var(--acc);margin-top:8px;line-height:1.5;display:inline-block}
-.aff:hover{text-decoration:underline}
+.side-id a.aff{color:var(--acc)}
+.side-id a.aff:hover{text-decoration:underline}
 .nav{display:flex;flex-direction:column;gap:2px;border-top:1px solid var(--line);padding-top:16px;font-size:15px}
 .nav a{color:var(--ink);padding:5px 0}
 .nav a.on{font-weight:600;color:var(--acc)}

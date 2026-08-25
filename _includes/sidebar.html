@@ -1,11 +1,11 @@
 <aside class="side">
-  <a class="side-id" href="{{ '/' | relative_url }}">
-    <img class="avatar" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" width="120" height="120">
-    <span class="name">{{ site.author.name }}</span>
+  <div class="side-id">
+    <a href="{{ '/' | relative_url }}"><img class="avatar" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}" width="120" height="120"></a>
+    <a class="name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
     <span class="role">Assistant Professor of Accounting</span>
     <span class="role">Alberta School of Business</span>
-  </a>
-  <a class="aff" href="{{ site.author.profile }}">University of Alberta profile &rarr;</a>
+    <a class="aff" href="{{ site.author.profile }}">University of Alberta profile &rarr;</a>
+  </div>
   <nav class="nav" aria-label="Site">
     {% for item in site.nav %}
     <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="on" aria-current="page"{% endif %}>{{ item.title }}</a>
