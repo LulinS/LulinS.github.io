@@ -9,7 +9,7 @@ permalink: /teaching/
 ## Alberta School of Business, University of Alberta
 
 <ul class="courses">
-  <li><span class="course">ACCTG 222 · Introduction to Accounting for Management Decision Making</span><span class="when">Winter 2027</span></li>
+  <li><span class="course"><a href="https://apps.ualberta.ca/catalogue/course/acctg/222" target="_blank" rel="noopener">ACCTG 222 · Introduction to Accounting for Management Decision Making</a></span><span class="when">Winter 2027</span><span class="desc">This course focuses on how to prepare and use accounting information for management decision making. Major topics include the role of corporate goals, planning and control concepts, how costs behave and how to analyze and manage them, budgeting, and performance measures. Prerequisite: ACCTG 211 or 311.</span></li>
 </ul>
 
 ## Rotman School of Management, University of Toronto
