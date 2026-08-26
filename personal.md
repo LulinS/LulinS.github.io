@@ -10,10 +10,10 @@ redirect_from:
 
 Away from research I'm a home barista, an artisan baker, an indoor gardener, and a dog dad.
 
-## Meet Seven, my Husky
+## Meet Ski, my Husky
 
 <div class="gallery">
-  <img src="/images/seven-1.jpg" alt="Seven the Husky">
-  <img src="/images/seven-2.jpg" alt="Seven the Husky">
-  <img src="/images/seven-3.jpg" alt="Seven the Husky">
+  <img src="/images/seven-1.jpg" alt="Ski the Husky">
+  <img src="/images/seven-2.jpg" alt="Ski the Husky">
+  <img src="/images/seven-3.jpg" alt="Ski the Husky">
 </div>
