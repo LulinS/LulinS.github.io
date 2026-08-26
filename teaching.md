@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <h1 class="page">Teaching</h1>
 
-## University of Alberta
+## Alberta School of Business, University of Alberta
 
 <ul class="courses">
   <li><span class="course">ACCTG 222 · Introduction to Accounting for Management Decision Making</span><span class="when">Winter 2027</span></li>
@@ -17,7 +17,7 @@ permalink: /teaching/
 <h3>Instructor</h3>
 
 <ul class="courses">
-  <li><span class="course">Data Analytics with Financial Accounting Information</span><span class="when">2024</span></li>
+  <li><span class="course">RSM 326 · Data Analytics with Financial Accounting Information</span><span class="when">2024</span></li>
 </ul>
 
 <h3>Teaching assistant</h3>
