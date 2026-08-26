@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-<p class="lede">I study how regulation and disclosure shape social outcomes — healthcare quality, fair lending, and environmental justice.</p>
+<p class="lede">I am an Assistant Professor in the Department of Accounting and Business Analytics at the Alberta School of Business, University of Alberta.</p>
 
-I'm an Assistant Professor in the Department of Accounting and Business Analytics at the University of Alberta. I received my Ph.D. in Accounting from the Rotman School of Management, University of Toronto, in 2026.
+My research examines how regulation and disclosure shape social outcomes, including healthcare quality, fair lending, and environmental justice. I received my Ph.D. in Accounting from the Rotman School of Management, University of Toronto, in 2026.
 
 <div class="tags" aria-label="Research areas"><span class="tags-label">Research areas</span><span>Disclosure regulation</span><span>ESG</span><span>Healthcare</span><span>Fair lending</span><span>Environmental justice</span></div>
 
