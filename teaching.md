@@ -15,5 +15,5 @@ permalink: /teaching/
 ## Rotman School of Management, University of Toronto
 
 <ul class="courses">
-  <li><span class="course">RSM 326 · Data Analytics with Financial Accounting Information</span><span class="when">2024</span></li>
+  <li><span class="course">RSM 326 · Data Analytics with Financial Accounting Information</span><span class="when">Winter 2024</span></li>
 </ul>
