@@ -13,6 +13,9 @@ author:
   office: 3-75 Humanities Centre
   address: 11121 Saskatchewan Drive NW, Edmonton AB T6G 2E5
 
+# Cookieless visitor counter: your GoatCounter site code (the part before .goatcounter.com)
+goatcounter: ""
+
 nav:
   - title: Home
     url: /
