@@ -31,6 +31,5 @@ My research examines how regulation and disclosure shape social outcomes. Across
     <p class="detail"><b>Funding:</b> TD MDAL Research Grant</p>
     <p class="detail"><b>Committee:</b> Scott Liao (co-chair), Hai Lu (co-chair), Baohua Xin, Susan Feng Lu, JeeEun Shin</p>
     <p class="detail"><b>Presented at:</b> Aalto University, Stockholm School of Economics, University of Alberta, Singapore Management University, City University of Hong Kong, University of Toronto, Toronto Metropolitan University, EAA Talent Workshop, McGill Accounting Research Conference Ph.D. Consortium, and AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium</p>
-    <div class="links"><a href="{{ site.author.ssrn }}" target="_blank" rel="noopener">SSRN</a></div>
   </li>
 </ul>

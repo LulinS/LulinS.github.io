@@ -26,6 +26,6 @@ I received my Ph.D. in Accounting from the Rotman School of Management, Universi
   <li class="paper">
     <div class="top"><p class="title">The Social Cost of Price Transparency: Evidence on Healthcare Payments Disclosures</p><span class="pill wp">Working paper</span></div>
     <p class="meta">Dissertation · solo-authored · TD MDAL Research Grant</p>
-    <div class="links"><a href="/research/#price-transparency">Details</a><a href="{{ site.author.ssrn }}" target="_blank" rel="noopener">SSRN</a></div>
+    <div class="links"><a href="/research/#price-transparency">Details</a></div>
   </li>
 </ul>
