@@ -14,6 +14,7 @@
   </nav>
   <div class="ext">
     <a href="mailto:{{ site.author.email }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>{{ site.author.email }}</a>
+    <span class="loc"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6-5.5-6-10a6 6 0 0 1 12 0c0 4.5-6 10-6 10z"/><circle cx="12" cy="11" r="2.2"/></svg><span>{{ site.author.office }}<br>{{ site.author.address }}</span></span>
     <a href="{{ site.author.ssrn }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3h9l3 3v11H8z"/><path d="M8 7H5v14h12v-3"/></svg>SSRN</a>
     {% if site.author.scholar != "" %}<a href="{{ site.author.scholar }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/></svg>Google Scholar</a>{% endif %}
     <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4z"/><path d="M8 10v6M8 7v.5M12 16v-3.5a2 2 0 0 1 4 0V16"/></svg>LinkedIn</a>
