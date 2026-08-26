@@ -14,10 +14,10 @@ I'm an Assistant Professor in the Department of Accounting and Business Analytic
 
 ## Education
 
-<ul class="courses">
-  <li><span class="course">Ph.D. in Accounting</span><span class="when">Rotman School of Management, University of Toronto</span></li>
-  <li><span class="course">Master of Management Science in Accounting</span><span class="when">Peking University</span></li>
-  <li><span class="course">Bachelor of Management in Accounting</span><span class="when">Central University of Finance and Economics</span></li>
+<ul class="edu">
+  <li><span class="degree">Ph.D. in Accounting</span><span class="school">Rotman School of Management, University of Toronto</span></li>
+  <li><span class="degree">Master of Management Science in Accounting</span><span class="school">Peking University</span></li>
+  <li><span class="degree">Bachelor of Management in Accounting</span><span class="school">Central University of Finance and Economics</span></li>
 </ul>
 
 ## Working papers
