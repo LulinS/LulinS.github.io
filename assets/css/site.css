@@ -67,6 +67,8 @@ li{margin-bottom:4px}
 .pill.wp{background:var(--pill-bg);color:var(--pill-fg)}
 .paper .gist{font-size:14.5px;color:var(--text);margin:0;max-width:none;line-height:1.5}
 .paper .meta{font-size:13.5px;color:var(--mute);margin:0;max-width:none}
+.paper .meta a{color:inherit;text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:2px}
+.paper .meta a:hover{color:var(--acc);text-decoration-color:var(--acc)}
 .paper .detail{font-size:13.5px;color:var(--mute);margin:0;max-width:none;line-height:1.5}
 .paper .detail b{color:var(--text);font-weight:500}
 .paper .links{display:flex;gap:6px;flex-wrap:wrap}
