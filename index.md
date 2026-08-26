@@ -15,9 +15,9 @@ I'm an Assistant Professor in the Department of Accounting and Business Analytic
 ## Education
 
 <ul class="edu">
-  <li><span class="degree">Ph.D. in Accounting</span><span class="school">Rotman School of Management, University of Toronto</span></li>
-  <li><span class="degree">Master of Management Science in Accounting</span><span class="school">Guanghua School of Management, Peking University</span></li>
-  <li><span class="degree">Bachelor of Management in Accounting</span><span class="school">Central University of Finance and Economics</span></li>
+  <li><span class="degree">Ph.D. in Accounting</span><span class="school">Rotman School of Management, University of Toronto</span><span class="year">2026</span></li>
+  <li><span class="degree">Master of Management Science in Accounting</span><span class="school">Guanghua School of Management, Peking University</span><span class="year">2020</span></li>
+  <li><span class="degree">Bachelor of Management in Accounting</span><span class="school">Central University of Finance and Economics</span><span class="year">2017</span></li>
 </ul>
 
 ## Working papers
