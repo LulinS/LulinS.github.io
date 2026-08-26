@@ -14,7 +14,7 @@ author:
   address: 11121 Saskatchewan Drive NW, Edmonton AB T6G 2E5
 
 # Cookieless visitor counter: Cloudflare Web Analytics token (Cloudflare dashboard > Analytics & Logs > Web Analytics)
-cloudflare_analytics: ""
+cloudflare_analytics: fd40a19d703d4930afa9f86bba958467
 
 nav:
   - title: Home
