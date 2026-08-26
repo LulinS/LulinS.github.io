@@ -110,6 +110,6 @@ li{margin-bottom:4px}
 .abs p{margin:8px 0 4px;line-height:1.55}
 
 .edu{list-style:none;padding:0;margin:0 0 8px;display:flex;flex-direction:column}
-.edu li{display:flex;flex-direction:column;gap:1px;padding:10px 0;border-bottom:1px solid var(--line)}
+.edu li{display:flex;flex-direction:column;gap:1px;padding:7px 0;border-bottom:1px solid var(--line)}
 .edu .degree{color:var(--ink);font-weight:500}
 .edu .school{font-size:14px;color:var(--mute)}
