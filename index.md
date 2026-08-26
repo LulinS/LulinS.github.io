@@ -10,6 +10,8 @@ redirect_from:
 
 I received my Ph.D. in Accounting from the Rotman School of Management, University of Toronto, in 2026. Before that, I earned an M.Sc. in Accounting from Peking University and a Bachelor of Management in Accounting from the Central University of Finance and Economics.
 
+<div class="tags" aria-label="Research areas"><span class="tags-label">Research areas</span><span>Disclosure regulation</span><span>ESG</span><span>Healthcare</span><span>Fair lending</span><span>Environmental justice</span></div>
+
 ## Working papers
 
 <ul class="papers">
