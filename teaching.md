@@ -14,17 +14,6 @@ permalink: /teaching/
 
 ## Rotman School of Management, University of Toronto
 
-<h3>Instructor</h3>
-
 <ul class="courses">
   <li><span class="course">RSM 326 · Data Analytics with Financial Accounting Information</span><span class="when">2024</span></li>
-</ul>
-
-<h3>Teaching assistant</h3>
-
-<ul class="courses">
-  <li><span class="course">Chinese Markets and Investments</span><span class="when">2023</span></li>
-  <li><span class="course">Intermediate Financial Accounting II</span><span class="when">2022</span></li>
-  <li><span class="course">Analytic Insights Using Accounting and Financial Data</span><span class="when">2022</span></li>
-  <li><span class="course">Financial Distress, Insolvency, and Restructuring</span><span class="when">2022</span></li>
 </ul>
